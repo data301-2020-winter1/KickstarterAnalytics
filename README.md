@@ -9,7 +9,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your topic/interest in about 150-200 words
 
-{Add your stuff here}
+
 
 ## Describe your dataset in about 150-200 words
 
@@ -17,7 +17,7 @@ The dataset aims to calculate world club ranking for men's soccer/football. It c
 
 ## Team Members
 
-- Tako Nyabadza: I love to play soccer
+- Tako Nyabadza: I love to play soccer.
 - Person 2: one sentence about you!
 - Person 3: one sentence about you!
 

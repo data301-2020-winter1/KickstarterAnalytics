@@ -20,7 +20,7 @@ The dataset aims to calculate world club ranking for men's soccer/football. It c
 
 - Tako Nyabadza: I love to play soccer and eat mac n cheese.
 - Minh Bui: I'm a competitive beatboxer and love making music.
-- Person 3: one sentence about you!
+- David Pinos: Im from Ecuador and I do jiu jitsu. 
 
 ## References
 

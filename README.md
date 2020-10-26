@@ -21,6 +21,7 @@ The dataset aims to calculate world club ranking for men's soccer/football. It c
 - Tako Nyabadza: I love to play soccer and eat mac n cheese.
 - Minh Bui: I'm a competitive beatboxer and love making music.
 - David Pinos: Im from Ecuador and I do jiu jitsu. 
+- Coleton Weninger: I love video games, mixed martial arts, and playing music (specifically guitar and bass)
 
 ## References
 

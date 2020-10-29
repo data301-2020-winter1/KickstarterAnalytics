@@ -8,7 +8,8 @@
 Details for Milestone are available on Canvas (left sidebar, Course Project) or [here](https://firas.moosvi.com/courses/data301/project/milestone01.html).
 
 ## Describe your topic/interest in about 150-200 words
-We aim to see how analysts analyze soccer teams  based on different factors that contribute to the game. Soccer is a tricky sport to model because there are so few goals scored in each match. The final scoreline will fairly often disagree with many people’s impressions of the quality of each team’s play, and the low-scoring nature of the sport will sometimes lead to prolonged periods of luck, where a team may be getting good results despite playing poorly (or vice versa). Therefore, the analysis, which is updated monthly provides information, on how team's overall performance affect their overall ranking estimating each team's underlying quality of performance. Factoring in things like league strength also, the data provides insight into learning about future scores, as the SPI (Soccer Power Index) is used by oddsmakers to figure out betting odds also.
+
+We aim to interpret our data and find which project categories and products find the most success within Kickstarter. This information might be useful to us in the future if we seek to start our own business and are in the process of raising funds. Furthermore, we will also analyze those products that met their crowdfunding goals in the shortest amount of time. This topic is of interest to us, since it clearly presents which types of businesses show the most promise when subject to raising capital. Moreover, it will be interesting to identify key industries that are experiencing growth and those that are in decline, as we are able to compare the startups within a time frame of 9 years. Overall the dataset will provide information that is relevant to anyone looking to grow their business through crowdfunding or private funding, as it offers insight into what products and industries most people are likely to support. 
 
 
 
@@ -25,4 +26,4 @@ Kickstarter is a crowdfunding platform that aims to help business ideas develop 
 
 ## References
 
-{Add your stuff here}
+{https://www.kaggle.com/kemical/kickstarter-projects}

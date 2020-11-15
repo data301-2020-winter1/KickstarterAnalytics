@@ -1,5 +1,5 @@
 [![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=311545&assignment_repo_type=GroupAssignmentRepo)
-# Group 6004 - Kickstarter Sucess Predictor
+# Group 6004 - Kickstarter Success Predictor
 
 - Your title can change over time.
 
@@ -19,7 +19,6 @@ Kickstarter is a crowdfunding platform that aims to help business ideas develop 
 
 ## Team Members
 
-- Tako Nyabadza: I love to play soccer and eat mac n cheese.
 - Minh Bui: I'm a competitive beatboxer and love making music.
 - David Pinos: Im from Ecuador and I do jiu jitsu. 
 - Coleton Weninger: I love video games, mixed martial arts, and playing music (specifically guitar and bass)

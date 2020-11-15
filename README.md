@@ -9,7 +9,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your topic/interest in about 150-200 words
 
-We aim to interpret our data and find which project categories and products find the most success within Kickstarter. This information might be useful to us in the future if we seek to start our own business and are in the process of raising funds. Furthermore, we will also analyze those products that met their crowdfunding goals in the shortest amount of time. This topic is of interest to us, since it clearly presents which types of businesses show the most promise when subject to raising capital. Moreover, it will be interesting to identify key industries that are experiencing growth and those that are in decline, as we are able to compare the startups within a time frame of 9 years. Overall the dataset will provide information that is relevant to anyone looking to grow their business through crowdfunding or private funding, as it offers insight into what products and industries most people are likely to support. 
+**We aim to interpret our data and find which project categories and products find the most success within Kickstarter.** This information might be useful to us in the future if we seek to start our own business and are in the process of raising funds. Furthermore, we will also analyze those products that met their crowdfunding goals in the shortest amount of time. This topic is of interest to us, since it clearly presents which types of businesses show the most promise when subject to raising capital. Moreover, it will be interesting to identify key industries that are experiencing growth and those that are in decline, as we are able to compare the startups within a time frame of 9 years. Overall the dataset will provide information that is relevant to anyone looking to grow their business through crowdfunding or private funding, as it offers insight into what products and industries most people are likely to support. 
 
 
 
@@ -25,4 +25,4 @@ Kickstarter is a crowdfunding platform that aims to help business ideas develop 
 
 ## References
 
-{https://www.kaggle.com/kemical/kickstarter-projects}
+Link to [dataset](https://www.kaggle.com/kemical/kickstarter-projects)

@@ -8,11 +8,9 @@ def load_and_process(url_or_path_to_csv_file):
     return df1
           
       
+  
     
-def sucess_rate(url_or_path_to_csv_file):
-    
-    df2 = 
-    return df2
+
 
 
 

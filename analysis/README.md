@@ -33,3 +33,6 @@ In this table we obtained the average funding per category of products . One can
 
 
 ![alt text](Table3.png)
+
+**4.	Failed Projects**
+

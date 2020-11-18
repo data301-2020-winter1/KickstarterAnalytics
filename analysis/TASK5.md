@@ -1,4 +1,4 @@
 ## TASK 5 - ANALYSIS
 
-![Table1.png]
+![alt text](Table1.png)
 

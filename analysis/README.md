@@ -16,6 +16,13 @@ In this table we obtained the average funding per category of products . One can
 
 
 2.	Number of successful campaigns 
+
+![alt text](Table6.png)
+
+
+![alt text](Table7.png)
+
+
 ![alt text](Table2.png)
 
 

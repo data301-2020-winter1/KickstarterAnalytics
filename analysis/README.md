@@ -7,7 +7,7 @@ Our research question  was focused on analyzing a dataset with over 30,000 Kicks
 
 We  measured success by obtaining data  such as average funding, number of successful campaigns, and number of backers. 
 
-1.	Average Funding 
+**1.	Average Funding** 
 
 ![alt text](Table1.png)
 
@@ -15,7 +15,7 @@ In this table we obtained the average funding per category of products . One can
 
 
 
-2.	Number of successful campaigns 
+**2.	Number of successful campaigns**
 
 ![alt text](Table6.png)
 
@@ -29,7 +29,7 @@ In this table we obtained the average funding per category of products . One can
 
 
 
-3.	Number of backers
+**3.	Number of backers**
 
 
 ![alt text](Table3.png)

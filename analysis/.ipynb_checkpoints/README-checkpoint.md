@@ -36,3 +36,17 @@ In this table we obtained the average funding per category of products . One can
 
 **4.	Failed Projects**
 
+Unfortunately, many kickstarters fail to reach their target goal and our research has shown us which categories are most likely to fail. It appears that Film & Video kickstarters tend to have a very tough time reaching a state of completion as shown in the image below:
+
+![alt text](coleton_table3.png)
+
+
+As you can see, of the 197611 failed kickstarters in our dataset, 32891 of those were Film & Video projects. We also looked at the average goal reached percentage of each failed project for each category:
+
+![alt text](coleton_table1.png)
+
+
+Out of all the failed projects, our research has shown us that when Journalism, Tech, or Food kickstarters fail, they tend to fail by a very large margin. Here is a graph representation of the data:
+
+![alt text](coleton_table2)
+

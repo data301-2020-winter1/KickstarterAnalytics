@@ -48,5 +48,5 @@ As you can see, of the 197611 failed kickstarters in our dataset, 32891 of those
 
 Out of all the failed projects, our research has shown us that when Journalism, Tech, or Food kickstarters fail, they tend to fail by a very large margin. Here is a graph representation of the data:
 
-![alt text](coleton_table2)
+![alt text](coleton_table2.png)
 

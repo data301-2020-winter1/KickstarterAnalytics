@@ -49,3 +49,5 @@ Out of all the failed projects, our research has shown us that when Journalism, 
 
 ![alt text](coleton_table2.png)
 
+### Conclusion
+

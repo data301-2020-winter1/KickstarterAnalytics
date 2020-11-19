@@ -4,7 +4,6 @@
 
 Our research question  was focused on analyzing a dataset with over 30,000 Kickstarter campaigns . The aim of our analysis was to understand which categories found the most success.   
 
-
 We  measured success by obtaining data  such as average funding, number of successful campaigns, and number of backers. 
 
 <br/><br/>
@@ -20,10 +19,10 @@ In this table we obtained the average funding per category of products . One can
 **2.	Number of successful campaigns**
 
 ![alt text](Table6.png)
-
+<br></br>
 
 ![alt text](Table7.png)
-
+<br></br>
 
 ![alt text](Table2.png)
 
@@ -31,8 +30,8 @@ In this table we obtained the average funding per category of products . One can
 
 **3.	Number of backers**
 
-
 ![alt text](Table3.png)
+<br></br>
 
 **4.	Failed Projects**
 
@@ -49,4 +48,6 @@ As you can see, of the 197611 failed kickstarters in our dataset, 32891 of those
 Out of all the failed projects, our research has shown us that when Journalism, Tech, or Food kickstarters fail, they tend to fail by a very large margin. Here is a graph representation of the data:
 
 ![alt text](coleton_table2.png)
+
+### Conclusion
 

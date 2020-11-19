@@ -4,7 +4,6 @@
 
 Our research question  was focused on analyzing a dataset with over 30,000 Kickstarter campaigns . The aim of our analysis was to understand which categories found the most success.   
 
-
 We  measured success by obtaining data  such as average funding, number of successful campaigns, and number of backers. 
 
 <br/><br/>
@@ -31,8 +30,8 @@ In this table we obtained the average funding per category of products . One can
 
 **3.	Number of backers**
 
-
 ![alt text](Table3.png)
+<br></br>
 
 **4.	Failed Projects**
 

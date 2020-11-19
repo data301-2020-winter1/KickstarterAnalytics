@@ -1,4 +1,4 @@
-##Task 4 - EDA
+## Task 4 - EDA
 
 **Method chaining:**
 - drop NA values
@@ -6,7 +6,7 @@
 - sort 'GoalReachedPercentage' by descending
 - reset index
 
----
+![alt text](../Table1.png)
 
 **Highest 'GoalReachedPercentage':**
 1. Music

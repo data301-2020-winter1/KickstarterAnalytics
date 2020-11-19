@@ -27,12 +27,13 @@ In this table we obtained the average funding per category of products . One can
 ![alt text](Table2.png)
 
 <br/><br/>
+In the graph above you can see the total number of successful campaign per product category.  In the data summary  Music is clearly identified  as the number one category with 133851 campaigns successfully completed. 
 
 **3.	Number of backers**
 
 ![alt text](Table3.png)
 <br></br>
-
+In this graph you can see the average  number of backers that each product category has. Games is the highest with 321 backers per campaign on average.
 **4.	Failed Projects**
 
 Unfortunately, many kickstarters fail to reach their target goal and our research has shown us which categories are most likely to fail. It appears that Film & Video kickstarters tend to have a very tough time reaching a state of completion as shown in the image below:

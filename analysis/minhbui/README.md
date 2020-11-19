@@ -7,7 +7,7 @@
 - reset index
 
 ![alt text](../Table1.png)
-
+---
 **Highest 'GoalReachedPercentage':**
 1. Music
 2. Games

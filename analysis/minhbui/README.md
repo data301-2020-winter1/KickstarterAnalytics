@@ -5,6 +5,7 @@
 - create a new column called 'GoalReachedPercentage' based on pledged amount/goal
 - sort 'GoalReachedPercentage' by descending
 - reset index
+- (more details in the jupyter notebook)
 
 ![alt text](../Table1.png)
 ---

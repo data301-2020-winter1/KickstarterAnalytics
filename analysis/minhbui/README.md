@@ -1,4 +1,4 @@
-## Task 4 - EDA (Markdown practice)
+## TASK 4 - EDA (Markdown practice)
 
 **Method chaining:**
 - drop NA values

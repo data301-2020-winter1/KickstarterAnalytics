@@ -2,7 +2,7 @@
 ---
 **Which Kickstarter categories are the most successful ?**
 
-Our research question  was focused on analyzing a dataset with over 30,000 Kickstarter campaigns . The aim of our analysis was to understand which categories found the most success.   
+Our research question  was focused on analyzing a dataset with over 300,000 Kickstarter campaigns . The aim of our analysis was to understand which categories found the most success.   
 
 We  measured success by obtaining data  such as average funding, number of successful campaigns, and number of backers. 
 

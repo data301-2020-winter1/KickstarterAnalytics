@@ -18,7 +18,7 @@ In this table we obtained the average funding per category of products . One can
 
 **2.	Number of successful campaigns**
 
-![alt text](Table6.png)
+![alt text](Table6v2.0.png)
 <br></br>
 
 ![alt text](Table7.png)
@@ -31,7 +31,7 @@ In the graph above you can see the total number of successful campaign per produ
 
 **3.	Number of backers**
 
-![alt text](Table3.png)
+![alt text](Table3v2.0.png)
 <br></br>
 In this graph you can see the average  number of backers that each product category has. Games is the highest with 321 backers per campaign on average.
 <br></br>

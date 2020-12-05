@@ -1,7 +1,6 @@
 [![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=311545&assignment_repo_type=GroupAssignmentRepo)
 # Group 6004 - Kickstarter Success Predictor
 ---
-- Your title can change over time.
 
 ## Milestones
 
@@ -16,6 +15,10 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 ## Describe your dataset in about 150-200 words
 
 Kickstarter is a crowdfunding platform that aims to help business ideas develop through the support of the community. Our dataset aims to analyze the common characteristics that successful crowdfunded startups share. The data was obtained from Kaggle, an online data science community, and it holds information such as  the date a Kickstarter campaign was started, the amount they wished to raise, category of their products, amount they actually raised, currency used, and date the crowdfunding ends.  The time frame the information was collected on started on May of 2009 and finished on March of 2018. The purpose of our dataset, as per its creator, is to foment interest in crowdfunding platforms. The creator presents this data under a creative commons license and incentivizes fellow data scientists to use it for analysis. He even presents examples of possible projects that could be created using the data. The information was obtained directly from the Kickstarter platform by the creator of the dataset. 
+
+## Presentation link
+
+https://drive.google.com/file/d/1SuB0OOlgiwMYu1rQ7cuw0c9yxFXeky-x/view?usp=sharing
 
 ## Team Members
 
